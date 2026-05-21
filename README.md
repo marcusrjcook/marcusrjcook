@@ -17,6 +17,9 @@ Currently building an agentic RAG platform on top of live RTLS location data, de
 **AI & LLM**
 
 ![Claude](https://img.shields.io/badge/Anthropic_Claude_API-D97757?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_%2F_ChromaDB-4B8BBE?style=flat-square&logoColor=white)
 ![Agentic](https://img.shields.io/badge/Agentic_Tool_Use-6B48FF?style=flat-square&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
@@ -51,6 +54,11 @@ Currently building an agentic RAG platform on top of live RTLS location data, de
 ![Cisco](https://img.shields.io/badge/Cisco_IOS_CLI-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP_%2F_VLAN-444444?style=flat-square&logoColor=white)
+
+**Cloud**
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_(Learning)-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
 **DevOps**
 

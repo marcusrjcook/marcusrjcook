@@ -2,13 +2,13 @@
 
 **Software Engineer · AI Integration · RTLS/RFID · Full Stack**
 
-Syracuse, NY &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/marcusrjcook) &nbsp;·&nbsp; marcusrjcook@gmail.com
+Florida &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/marcusrjcook) &nbsp;·&nbsp; marcusrjcook@gmail.com
 
 ---
 
 I build systems at the intersection of AI and industrial data — agentic LLM applications wired to real-time IoT streams, full-stack dashboards, and the networking and database infrastructure underneath it all.
 
-At **RTV Engineering** I'm building an agentic RAG platform on top of live RTLS location data, developing SiteDirector 2.0 (a custom Ignition 8.3 module normalizing Quuppa BLE, Kinexon MQTT, and ATR7000 RFID streams), and authoring the T-SQL stored procedure library for a 19-table MSSQL asset tracking database. I also have hands-on field experience deploying RTLS/RFID hardware at DoD aviation facilities — UCS surveying, device commissioning, and UAT/SAT acceptance testing.
+Currently building an agentic RAG platform on top of live RTLS location data, developing a custom Ignition 8.3 module that normalizes multi-source RTLS/RFID streams (Quuppa BLE, Kinexon MQTT, ATR7000 RFID), and authoring T-SQL stored procedures and views for an enterprise MSSQL asset tracking database. I also have hands-on field experience deploying RTLS/RFID hardware at DoD aviation facilities — UCS surveying, device commissioning, and UAT/SAT acceptance testing.
 
 ---
 

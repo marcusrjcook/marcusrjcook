@@ -6,9 +6,9 @@ Florida &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/marcusrjcook) &nbsp;·
 
 ---
 
-I build AI systems — agentic LLM applications, RAG pipelines, and intelligent automation — and I have the technical depth to connect them to whatever data, infrastructure, or domain the problem requires.
+I build AI systems — agentic LLM applications, RAG pipelines, and intelligent automation — and I have enough background in real infrastructure to make them actually work, not just in demos.
 
-My real-world experience happens to sit in one of the more demanding environments you can build in: industrial IoT and RTLS/RFID. Hands-on deployment at DoD aviation facilities, multi-vendor hardware integration (Quuppa, Zebra, SensThys), live location data pipelines, and the networking infrastructure underneath it all. That domain knowledge makes me a stronger AI engineer — I understand the systems generating the data, not just the models consuming it.
+My real-world experience is in one of the more demanding environments you can build for: industrial IoT and RTLS/RFID. Hands-on deployment at DoD aviation facilities, multi-vendor hardware integration (Quuppa, Zebra, SensThys), live location data pipelines, and the networking infrastructure underneath it all. That domain knowledge makes me a stronger AI engineer — I understand the systems generating the data, not just the models consuming it.
 
 ---
 

@@ -71,7 +71,7 @@ My real-world experience happens to sit in one of the more demanding environment
 |---|---|---|
 | [claude-agentic-query-agent](https://github.com/marcusjco/claude-agentic-query-agent) | Python · Claude API · FastAPI · SQLite | Claude autonomously selects and calls SQL tools to answer natural language questions — multi-round agentic loop with SSE streaming |
 | [rag-demo](https://github.com/marcusjco/rag-demo) | Python · ChromaDB · Claude API | End-to-end RAG pipeline: document ingestion, vector embedding, semantic retrieval, and LLM synthesis |
-| [rtls-simulator-dashboard](https://github.com/marcusjco/rtls-simulator-dashboard) | React · TypeScript · Python · FastAPI | Simulated RTLS location data streamed in real time to an interactive zone map and asset tracking dashboard |
+| [rtls-dashboard](https://github.com/marcusjco/rtls-dashboard) | React · TypeScript · Python · FastAPI · Claude API | AI-powered RTLS operations dashboard — 12 live-data tools, agentic report generation, BLE asset tracking, and JWT auth for a fictional industrial facility |
 
 ---
 

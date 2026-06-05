@@ -18,7 +18,7 @@ Vector store architecture with ChromaDB and Pinecone. Semantic chunking and embe
 LangChain and LangGraph agent workflows. 39-node n8n orchestration with two independent pipelines: scheduled intelligence reports and real-time webhook-triggered alert triage. Claude handling severity classification and automated routing.
 
 **Real-Time Data Pipelines**
-Multi-source ingestion from Quuppa BLE, Kinexon MQTT, and ATR7000 RFID into a unified data model. Apache Kafka consumer pipelines. Designed for correctness and idempotency under high-frequency write load.
+Multi-source ingestion from Quuppa BLE, Kinexon MQTT, and ATR7000 RFID into a unified data model. Apache Kafka consumer pipelines. Built for correctness and idempotency under high-frequency write load.
 
 ---
 

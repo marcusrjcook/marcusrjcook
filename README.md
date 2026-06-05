@@ -1,79 +1,57 @@
-# Marcus Cook
+# Marcus Cook — AI Engineer
 
-**AI Integration Engineer · Industrial IoT · RTLS/RFID**
+I build production-ready AI systems: agentic pipelines, RAG architectures, and the real-time data infrastructure that keeps them running.
 
-Florida &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/marcusrjcook) &nbsp;·&nbsp; marcusrjcook@gmail.com
-
----
-
-I build AI systems — agentic LLM applications, RAG pipelines, and intelligent automation — and I have enough background in real infrastructure to make them actually work, not just in demos.
-
-My real-world experience is in one of the more demanding environments you can build for: industrial IoT and RTLS/RFID. Hands-on deployment at DoD aviation facilities, multi-vendor hardware integration (Quuppa, Zebra, SensThys), live location data pipelines, and the networking infrastructure underneath it all. That domain knowledge makes me a stronger AI engineer — I understand the systems generating the data, not just the models consuming it.
+My production work is under NDA. For the last year and a half I've been building an end-to-end AI pipeline for an enterprise RTLS platform deployed at an active DoD aviation facility — an agentic system with 12 SQL-backed tools and function calling, ChromaDB RAG pipeline for operational context retrieval, and multi-source real-time data ingestion (BLE, MQTT, RFID) serving clients including Pratt & Whitney.
 
 ---
 
-## Focus Areas
+## What I Build
 
-**AI & LLM**
+**Agentic AI Systems**
+Multi-turn LLM pipelines with tool use and function calling. History management preserving tool_use/tool_result pairs. Structured error recovery. ReAct pattern implementation. Built on the Anthropic Claude API and OpenAI API with patterns that transfer across providers.
 
-![Claude](https://img.shields.io/badge/Anthropic_Claude_API-D97757?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_%2F_ChromaDB-4B8BBE?style=flat-square&logoColor=white)
-![Agentic](https://img.shields.io/badge/Agentic_Tool_Use-6B48FF?style=flat-square&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Prompt](https://img.shields.io/badge/Prompt_Engineering-555555?style=flat-square&logoColor=white)
+**RAG Pipelines**
+Vector store architecture with ChromaDB and Pinecone. Semantic chunking and embedding. Similarity retrieval with score filtering. Hybrid search patterns. Context injection into LLM prompts. Evaluated with RAGAS — faithfulness, context recall, answer relevancy.
 
-**RTLS & IoT**
+**Multi-Agent Orchestration**
+LangChain and LangGraph agent workflows. 39-node n8n orchestration with two independent pipelines: scheduled intelligence reports and real-time webhook-triggered alert triage. Claude handling severity classification and automated routing.
 
-![Quuppa](https://img.shields.io/badge/Quuppa_(QSP%2FQPE)-1a1a2e?style=flat-square&logoColor=white)
-![Zebra](https://img.shields.io/badge/Zebra_CLAS_ATR7000-E31837?style=flat-square&logoColor=white)
-![BLE](https://img.shields.io/badge/BLE_%2F_UHF_RFID-0082FC?style=flat-square&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Ignition](https://img.shields.io/badge/Ignition_8.3-FF6600?style=flat-square&logoColor=white)
-
-**Cloud**
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_(Learning)-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+**Real-Time Data Pipelines**
+Multi-source ingestion from Quuppa BLE, Kinexon MQTT, and ATR7000 RFID into a unified data model. Apache Kafka consumer pipelines. Designed for correctness and idempotency under high-frequency write load.
 
 ---
 
-## Supporting Skills
+## Tech Stack
 
-**Backend**
+**AI & LLM:** Anthropic Claude API · OpenAI API · LangChain · LangGraph · Agentic Tool Use · Function Calling · RAG · ChromaDB · Pinecone · Prompt Engineering · Multi-Agent Orchestration · SSE Streaming · Model Evaluation · RAGAS · MCP (Model Context Protocol)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server_(T--SQL)-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white)
+**Backend:** Python · FastAPI · SQLAlchemy · Node.js · SQL Server (T-SQL) · SQLite · REST API Design · JWT Auth · gRPC
 
-**Networking**
+**Data & Messaging:** Apache Kafka · MQTT · Real-Time Stream Ingestion · Multi-Source Pipeline Architecture · InfluxDB · TimescaleDB
 
-![Cisco](https://img.shields.io/badge/Cisco_IOS_CLI-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP_%2F_VLAN-444444?style=flat-square&logoColor=white)
+**Frontend:** React 18 · TypeScript · Tailwind CSS · Angular
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+**DevOps & Cloud:** Docker · AWS (EC2, S3) · Azure · Git · n8n · Render · Kubernetes · Prometheus · Grafana
 
 ---
 
 ## Projects
 
-| Repo | Stack | What it does |
-|---|---|---|
-| [claude-agentic-query-agent](https://github.com/marcusjco/claude-agentic-query-agent) | Python · Claude API · FastAPI · SQLite | Claude autonomously selects and calls SQL tools to answer natural language questions — multi-round agentic loop with SSE streaming |
-| [rag-demo](https://github.com/marcusjco/rag-demo) | Python · ChromaDB · Claude API | End-to-end RAG pipeline: document ingestion, vector embedding, semantic retrieval, and LLM synthesis |
-| [rtls-ops-automation](https://github.com/marcusjco/rtls-ops-automation) | n8n · Claude API · Slack · Google Sheets | 39-node automation workflow — scheduled shift intelligence reports and real-time RTLS alert triage with Claude routing severity to the right channel |
-| [rtls-dashboard](https://github.com/marcusjco/rtls-dashboard) | React · TypeScript · Python · FastAPI · Claude API | AI-powered RTLS operations dashboard — 12 live-data tools, agentic report generation, BLE asset tracking, and JWT auth for a fictional industrial facility |
+**[SiteTrack RTLS Dashboard](https://github.com/marcusjco/rtls-dashboard)**
+AI-powered RTLS intelligence platform built on the same architecture as a live DoD aviation facility deployment (NDA). 12 SQL-backed agentic AI tools with tool use and function calling, ChromaDB RAG, SSE streaming, JWT auth, RBAC. FastAPI + React/TypeScript. 180 assets, 7 zones, 31,000+ events.
+
+**[RTLS Operations Automation](https://github.com/marcusjco/rtls-ops-automation)**
+39-node n8n multi-agent orchestration workflow. Scheduled shift intelligence pipeline + real-time webhook alert triage. Claude classifying severity and routing to Slack/Gmail/Sheets automatically.
+
+**[Claude Agentic Query Agent](https://claude-agentic-query-agent.onrender.com)** · [Repo](https://github.com/marcusjco/claude-agentic-query-agent)
+Live deployed FastAPI service demonstrating multi-turn Claude tool use. History management, structured error recovery, SSE streaming. Running in production on Render.
+
+**[RAG Demo](https://github.com/marcusjco/rag-demo)**
+ChromaDB RAG pipeline with sentence-transformer embeddings. Chunking, embedding, semantic retrieval, score filtering. FastAPI + React.
 
 ---
 
-*Open to AI integration and Industrial IoT roles.*
+Open to AI Engineer and LLM integration roles. Florida-based, open to remote.
+
+[linkedin.com/in/marcusrjcook](https://linkedin.com/in/marcusrjcook)

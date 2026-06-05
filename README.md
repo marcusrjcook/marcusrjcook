@@ -88,7 +88,7 @@ Multi-source ingestion from Quuppa BLE, Kinexon MQTT, and ATR7000 RFID into a un
 **[SiteTrack RTLS Dashboard](https://github.com/marcusrjcook/rtls-dashboard)**
 AI-powered RTLS intelligence platform built on the same architecture as a live DoD aviation facility deployment (NDA). 12 SQL-backed agentic AI tools with tool use and function calling, ChromaDB RAG, SSE streaming, JWT auth, RBAC. FastAPI + React/TypeScript. 180 assets, 7 zones, 31,000+ events.
 
-**[LangChain Multi-Tool Agent](https://github.com/marcusrjcook/langchain-agent-demo)**
+**[LangChain Multi-Tool Agent](https://github.com/marcusrjcook/langchain-agent-demo)** · [Live Demo](http://18.218.110.243:8000)
 LangChain/LangGraph ReAct agent with web search, calculator, and datetime tools. Multi-turn conversation memory via LangGraph MemorySaver checkpointer. SSE streaming. FastAPI backend on AWS EC2.
 
 **[RTLS Operations Automation](https://github.com/marcusrjcook/rtls-ops-automation)**

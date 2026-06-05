@@ -85,19 +85,19 @@ Multi-source ingestion from Quuppa BLE, Kinexon MQTT, and ATR7000 RFID into a un
 
 ## Projects
 
-**[SiteTrack RTLS Dashboard](https://github.com/marcusjco/rtls-dashboard)**
+**[SiteTrack RTLS Dashboard](https://github.com/marcusrjcook/rtls-dashboard)**
 AI-powered RTLS intelligence platform built on the same architecture as a live DoD aviation facility deployment (NDA). 12 SQL-backed agentic AI tools with tool use and function calling, ChromaDB RAG, SSE streaming, JWT auth, RBAC. FastAPI + React/TypeScript. 180 assets, 7 zones, 31,000+ events.
 
-**[LangChain Multi-Tool Agent](https://github.com/marcusjco/langchain-agent-demo)**
+**[LangChain Multi-Tool Agent](https://github.com/marcusrjcook/langchain-agent-demo)**
 LangChain/LangGraph ReAct agent with web search, calculator, and datetime tools. Multi-turn conversation memory via LangGraph MemorySaver checkpointer. SSE streaming. FastAPI backend on AWS EC2.
 
-**[RTLS Operations Automation](https://github.com/marcusjco/rtls-ops-automation)**
+**[RTLS Operations Automation](https://github.com/marcusrjcook/rtls-ops-automation)**
 39-node n8n multi-agent orchestration workflow. Scheduled shift intelligence pipeline + real-time webhook alert triage. Claude classifying severity and routing to Slack/Gmail/Sheets automatically.
 
-**[Claude Agentic Query Agent](https://claude-agentic-query-agent.onrender.com)** · [Repo](https://github.com/marcusjco/claude-agentic-query-agent)
+**[Claude Agentic Query Agent](https://claude-agentic-query-agent.onrender.com)** · [Repo](https://github.com/marcusrjcook/claude-agentic-query-agent)
 Live deployed FastAPI service demonstrating multi-turn Claude tool use. History management, structured error recovery, SSE streaming. Running in production on Render.
 
-**[RAG Demo](https://github.com/marcusjco/rag-demo)**
+**[RAG Demo](https://github.com/marcusrjcook/rag-demo)**
 ChromaDB RAG pipeline with sentence-transformer embeddings. Chunking, embedding, semantic retrieval, score filtering. FastAPI + React.
 
 ---
